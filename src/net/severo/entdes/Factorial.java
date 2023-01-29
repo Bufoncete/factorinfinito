@@ -6,8 +6,8 @@ package net.severo.entdes;
  */
 public class Factorial {
 
-	public static final java.lang.String STRING = "Value of n!: ";
-	public static final java.lang.String STRING1 = "Value of n: ";
+	public static final java.lang.String STRING = "Wert von n!: ";
+	public static final java.lang.String STRING1 = "Wert von n: ";
 
 	public static void main(String[] args) {
 
